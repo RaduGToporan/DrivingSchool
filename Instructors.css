@@ -1,38 +1,35 @@
 body {
-    background-color: powderblue;
+    background-color: powderblue!important; 
   }
   h1 {
-    color: blue;
-    border: 2px solid green;
+    color: blue!important;
+    border: 2px solid green!important;
   }
   p {
-    color: red;
-    
+    color: red!important;
   }
 
   table {
-    font-family: arial, sans-serif;
-    border-collapse: collapse;
-    width: 100%;
+    font-family: arial, sans-serif!important;
+    border-collapse: collapse!important;
+    width: 100%!important;
   }
   
   table, td, th {
-    border: 1px solid black;
-    text-align: left;
-    padding: 8px;
-    border-collapse: collapse;
+    border: 1px solid black!important;
+    text-align: left!important;
+    padding: 8px!important;
+    border-collapse: collapse!important;
   }
 
   th, td {
-    padding: 15px;
+    padding: 15px!important;
   }
 
   th {
-    text-align: center;
+    text-align: center!important;
   }
-  
 
-  
   tr:nth-child(even) {
-    background-color: #dddddd;
+    background-color: #dddddd!important;
   }
